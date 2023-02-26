@@ -1,6 +1,9 @@
 # AI Generation Tests
 This repository is for collecting interesting generative model tests / applications (e.g. ChatGPT).
 
+If you have good - either positive or negative - examples, I'd love to hear about them. 
+Please don't hesitate to contribute to this repo by making a pull request!
+
 # Can LLMs explain their own deicision making?
 
 One of the most common criticism towards today's machine learning (especially [foundation](blog)) models is their "black box" nature. This refers to the difficuly of reverse engineering their decision making, which makes it difficult to test whether they caprure the patterns we intended them to do during traning.
