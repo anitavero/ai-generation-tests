@@ -6,12 +6,11 @@ Please don't hesitate to contribute to this repo by making a pull request!
 
 # Can LLMs explain their own deicision making?
 
-One of the most common criticism towards today's machine learning (especially [foundation](blog)) models is their "black box" nature. This refers to the difficuly of reverse engineering their decision making, which makes it difficult to test whether they caprure the patterns we intended them to do during traning.
+One of the most common criticism towards today's machine learning (especially [foundation](blog)) models is their "black box" nature. This refers to the difficulty of reverse engineering their decision making, which makes it difficult to test whether they capture the patterns we intended them to do during training.
 
-This can result in all sort of unintended behaviours of the mode, which can trickle down to downstream applications and cause societal harm, which is often increasbly hard to notice.
+This can result in all sorts of unintended behaviours of the model. This can trickle down to downstream applications and cause societal harm, which is often incredibly hard to notice.
 
-For this reason I was interedted whether ChatGPT can give conrete reasons for why it generated content in a certain way.
-This folder is to include such "behavioural" tests, such as the example below:
+For this reason I was interested whether ChatGPT can give concrete reasons for why it generated content in a certain way. This folder is to include such "behavioural" tests, such as the example below:
 
 ![Generate a speech in a certain style](chatgpt/explaining_style_features/Screenshot-2023-02-24-09.18.03.png)
 
