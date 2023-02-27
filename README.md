@@ -6,7 +6,7 @@ Please don't hesitate to contribute to this repo by making a pull request!
 
 # Can LLMs explain their own deicision making?
 
-One of the most common criticism towards today's machine learning (especially [foundation](blog)) models is their "black box" nature. This refers to the difficulty of reverse engineering their decision making, which makes it difficult to test whether they capture the patterns we intended them to do during training.
+One of the most common criticism towards today's machine learning (especially [foundation](https://anilill.medium.com/is-chatgpt-all-you-need-37b726dc218e)) models is their "black box" nature. This refers to the difficulty of reverse engineering their decision making, which makes it difficult to test whether they capture the patterns we intended them to do during training.
 
 This can result in all sorts of unintended behaviours of the model. These then can trickle down to downstream applications and cause societal harm, which is often incredibly hard to notice.
 
